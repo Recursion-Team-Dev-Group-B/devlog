@@ -50,3 +50,4 @@ Blackjackの実装が完了し次第、残りのWar, Speed, Pokerを1人1ゲー�
   - [TypeScript](https://qiita.com/uhyo/items/e2fdef2d3236b9bfe74a)
 - クラス図、アクティビティ図の作成、作成方法の検討
 - 最初は週3MTGの方が良さそうか
+- Blackjack要件定義
