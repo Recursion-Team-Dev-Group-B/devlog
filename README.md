@@ -123,7 +123,12 @@ Blackjackの実装が完了し次第、残りのWar, Speed, Pokerを1人1ゲー�
 
 ### 現状
 - 全体的にPhaserのキャッチアップを実装レベルで行えておらず、進捗が良くない
-- Blackjack開始後にPlayerとHouseにカードが配るところを実装中(今日中に実装予定)
+- Blackjack
+  - Card, Player, Deck, Tableなどのクラス作成
+  - Blackjackのアクティビティ図作成
+  - Blackjackのクラス図は作成途中(実装を進めながら作成)
+  - Blackjack開始後にPlayerとHouseにカードが配るところを実装中(今日中に実装予定)
+    - とりあえずPlayer1人、House1人のゲームを作成予定、CPUなどは余裕があれば
   - 実装後は機能ごとにissueを作成し、分担し開発を始める
 
 
