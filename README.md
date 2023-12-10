@@ -235,11 +235,15 @@ Blackjackの実装が完了し次第、残りのWar, Speed, Pokerを1人1ゲー�
 - Pokerの実装
 
 **seej**
-- Pokerの実装
+- Warリファクタリング
+- Warアニメーション
+- War効果音
 
 **yuto**
 - ホーム画面作成
-- Speedの実装
+- Blackjackリファクタリング
+- Blackjackアニメーション
+- Blackjack効果音
 
 ### 来週すること
 
